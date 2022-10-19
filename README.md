@@ -26,7 +26,7 @@
 
 
 - 🔭 I’m working as a Data Anlayst since 2021 and a Aspiring Data Scientist.
-- 🌱 I have Master of Science degree in Data Science - LJMU and PG Diploma holder from IIIT - Banglore.
+- 🌱 I have completed Master of Science degree in Data Science - LJMU and PG Diploma holder from IIIT - Banglore.
 - 👯 I’m looking for new opportunities in Data Science and Machine Learning.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: yugandharippili9@gmail.com
